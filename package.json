@@ -1,0 +1,25 @@
+{
+  "name": "ramjr-bs3-cards",
+  "version": "0.0.1",
+  "description": "Bootstrap 3 port of bootstrap 4 cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primeninja/bootstrap3cards.git"
+  },
+  "author": "Ramachandra Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/primeninja/bootstrap3cards/issues"
+  },
+  "homepage": "https://github.com/primeninja/bootstrap3cards#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2"
+  }
+}
