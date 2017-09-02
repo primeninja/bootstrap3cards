@@ -12,17 +12,17 @@ Include link in your HTML page as: `https://cdn.rawgit.com/primeninja/bootstrap3
 
 ### Related Classes
 
-####.card
+#### .card
 Wrapper that holds whole card together.
 
-####.card-img-top
+#### .card-img-top
 Card's image.
 
-####.card-block
+#### .card-block
 Holder for text contents of cards.
 
-####.card-title
+#### .card-title
 Title of card, emphasized title content.
 
-####.card-text
+#### .card-text
 Normal text content on a card.
